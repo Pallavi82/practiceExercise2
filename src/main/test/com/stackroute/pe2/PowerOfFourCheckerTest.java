@@ -1,3 +1,4 @@
+package com.stackroute.pe2;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -22,4 +23,5 @@ public class PowerOfFourCheckerTest {
         String result = powerOfFourChecker.checkForPowerOfFour(64);
         assertEquals("Num is power of 4", result);
     }
+
 }

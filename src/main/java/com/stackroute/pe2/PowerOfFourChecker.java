@@ -1,3 +1,5 @@
+package com.stackroute.pe2;
+
 import static java.lang.Math.log;
 
 public class PowerOfFourChecker {
